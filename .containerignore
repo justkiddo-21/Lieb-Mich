@@ -1,0 +1,6 @@
+.git
+**/node_modules
+app/dist
+out
+analysis
+lieb mich.mp3

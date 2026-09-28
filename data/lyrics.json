@@ -1,0 +1,3047 @@
+{
+ "lines": [
+  {
+   "i": 0,
+   "text": "Ich halt den Atem an",
+   "start": 18.6,
+   "end": 21.18,
+   "words": [
+    {
+     "w": "Ich",
+     "start": 18.6,
+     "end": 18.9,
+     "conf": 0.94
+    },
+    {
+     "w": "halt",
+     "start": 18.9,
+     "end": 19.3,
+     "conf": 0.95
+    },
+    {
+     "w": "den",
+     "start": 19.4,
+     "end": 19.76,
+     "conf": 0.94
+    },
+    {
+     "w": "Atem",
+     "start": 19.92,
+     "end": 20.4,
+     "conf": 0.94
+    },
+    {
+     "w": "an",
+     "start": 20.6,
+     "end": 21.18,
+     "conf": 0.91
+    }
+   ]
+  },
+  {
+   "i": 1,
+   "text": "Sie ist schön wunderschön",
+   "start": 21.18,
+   "end": 24.6,
+   "words": [
+    {
+     "w": "Sie",
+     "start": 21.18,
+     "end": 21.42,
+     "conf": 0.84
+    },
+    {
+     "w": "ist",
+     "start": 21.42,
+     "end": 21.6,
+     "conf": 0.88
+    },
+    {
+     "w": "schön",
+     "start": 21.6,
+     "end": 22.5,
+     "conf": 0.63
+    },
+    {
+     "w": "wunderschön",
+     "start": 22.5,
+     "end": 24.6,
+     "conf": 0.56
+    }
+   ]
+  },
+  {
+   "i": 2,
+   "text": "Ich halt den Atem an",
+   "start": 25.7,
+   "end": 28.3,
+   "words": [
+    {
+     "w": "Ich",
+     "start": 25.7,
+     "end": 26.04,
+     "conf": 0.31
+    },
+    {
+     "w": "halt",
+     "start": 26.04,
+     "end": 26.46,
+     "conf": 0.37
+    },
+    {
+     "w": "den",
+     "start": 26.54,
+     "end": 26.88,
+     "conf": 0.46
+    },
+    {
+     "w": "Atem",
+     "start": 27.02,
+     "end": 27.54,
+     "conf": 0.49
+    },
+    {
+     "w": "an",
+     "start": 27.72,
+     "end": 28.3,
+     "conf": 0.57
+    }
+   ]
+  },
+  {
+   "i": 3,
+   "text": "Wird sie bleiben oder gehen",
+   "start": 28.3,
+   "end": 31.44,
+   "words": [
+    {
+     "w": "Wird",
+     "start": 28.3,
+     "end": 28.52,
+     "conf": 0.03
+    },
+    {
+     "w": "sie",
+     "start": 28.52,
+     "end": 28.7,
+     "conf": 0.56
+    },
+    {
+     "w": "bleiben",
+     "start": 28.7,
+     "end": 29.6,
+     "conf": 0.81
+    },
+    {
+     "w": "oder",
+     "start": 29.74,
+     "end": 30.5,
+     "conf": 0.88
+    },
+    {
+     "w": "gehen",
+     "start": 30.52,
+     "end": 31.44,
+     "conf": 0.42
+    }
+   ]
+  },
+  {
+   "i": 4,
+   "text": "Ich verzehr mich",
+   "start": 31.9,
+   "end": 33.14,
+   "words": [
+    {
+     "w": "Ich",
+     "start": 31.9,
+     "end": 32.06,
+     "conf": 0.96
+    },
+    {
+     "w": "verzehr",
+     "start": 32.06,
+     "end": 32.76,
+     "conf": 0.81
+    },
+    {
+     "w": "mich",
+     "start": 32.78,
+     "end": 33.14,
+     "conf": 0.96
+    }
+   ]
+  },
+  {
+   "i": 5,
+   "text": "Wart schon so lange hier",
+   "start": 33.4,
+   "end": 35.18,
+   "words": [
+    {
+     "w": "Wart",
+     "start": 33.4,
+     "end": 33.58,
+     "conf": 0.47
+    },
+    {
+     "w": "schon",
+     "start": 33.58,
+     "end": 33.84,
+     "conf": 0.46
+    },
+    {
+     "w": "so",
+     "start": 33.84,
+     "end": 34.04,
+     "conf": 0.99
+    },
+    {
+     "w": "lange",
+     "start": 34.04,
+     "end": 34.74,
+     "conf": 0.99
+    },
+    {
+     "w": "hier",
+     "start": 34.74,
+     "end": 35.18,
+     "conf": 0.29
+    }
+   ]
+  },
+  {
+   "i": 6,
+   "text": "Wie ein Panther auf der Fährte seines Beutetieres",
+   "start": 35.42,
+   "end": 38.78,
+   "words": [
+    {
+     "w": "Wie",
+     "start": 35.42,
+     "end": 35.58,
+     "conf": 0.8
+    },
+    {
+     "w": "ein",
+     "start": 35.66,
+     "end": 35.8,
+     "conf": 0.97
+    },
+    {
+     "w": "Panther",
+     "start": 35.84,
+     "end": 36.26,
+     "conf": 0.7
+    },
+    {
+     "w": "auf",
+     "start": 36.34,
+     "end": 36.48,
+     "conf": 0.99
+    },
+    {
+     "w": "der",
+     "start": 36.5,
+     "end": 36.7,
+     "conf": 0.99
+    },
+    {
+     "w": "Fährte",
+     "start": 36.7,
+     "end": 37.18,
+     "conf": 0.66
+    },
+    {
+     "w": "seines",
+     "start": 37.18,
+     "end": 37.58,
+     "conf": 0.99
+    },
+    {
+     "w": "Beutetieres",
+     "start": 37.62,
+     "end": 38.78,
+     "conf": 0.45
+    }
+   ]
+  },
+  {
+   "i": 7,
+   "text": "Ja ich verzehr mich",
+   "start": 38.78,
+   "end": 40.2,
+   "words": [
+    {
+     "w": "Ja",
+     "start": 38.78,
+     "end": 38.94,
+     "conf": 0.95
+    },
+    {
+     "w": "ich",
+     "start": 38.98,
+     "end": 39.16,
+     "conf": 0.95
+    },
+    {
+     "w": "verzehr",
+     "start": 39.16,
+     "end": 39.88,
+     "conf": 0.85
+    },
+    {
+     "w": "mich",
+     "start": 39.88,
+     "end": 40.2,
+     "conf": 0.97
+    }
+   ]
+  },
+  {
+   "i": 8,
+   "text": "Und ich will doch nur lieben",
+   "start": 40.58,
+   "end": 42.5,
+   "words": [
+    {
+     "w": "Und",
+     "start": 40.58,
+     "end": 40.78,
+     "conf": 0.91
+    },
+    {
+     "w": "ich",
+     "start": 40.78,
+     "end": 40.94,
+     "conf": 0.99
+    },
+    {
+     "w": "will",
+     "start": 40.94,
+     "end": 41.16,
+     "conf": 0.88
+    },
+    {
+     "w": "doch",
+     "start": 41.18,
+     "end": 41.42,
+     "conf": 0.94
+    },
+    {
+     "w": "nur",
+     "start": 41.42,
+     "end": 41.84,
+     "conf": 0.85
+    },
+    {
+     "w": "lieben",
+     "start": 41.84,
+     "end": 42.5,
+     "conf": 0.78
+    }
+   ]
+  },
+  {
+   "i": 9,
+   "text": "Und noch in dieser Nacht",
+   "start": 42.78,
+   "end": 44.12,
+   "words": [
+    {
+     "w": "Und",
+     "start": 42.78,
+     "end": 42.94,
+     "conf": 0.79
+    },
+    {
+     "w": "noch",
+     "start": 42.94,
+     "end": 43.14,
+     "conf": 0.99
+    },
+    {
+     "w": "in",
+     "start": 43.2,
+     "end": 43.4,
+     "conf": 0.98
+    },
+    {
+     "w": "dieser",
+     "start": 43.4,
+     "end": 43.82,
+     "conf": 0.94
+    },
+    {
+     "w": "Nacht",
+     "start": 43.82,
+     "end": 44.12,
+     "conf": 0.98
+    }
+   ]
+  },
+  {
+   "i": 10,
+   "text": "An ihrer Seite liegen",
+   "start": 44.12,
+   "end": 46.18,
+   "words": [
+    {
+     "w": "An",
+     "start": 44.12,
+     "end": 44.24,
+     "conf": 0.97
+    },
+    {
+     "w": "ihrer",
+     "start": 44.32,
+     "end": 44.72,
+     "conf": 0.97
+    },
+    {
+     "w": "Seite",
+     "start": 44.72,
+     "end": 45.4,
+     "conf": 1.0
+    },
+    {
+     "w": "liegen",
+     "start": 45.4,
+     "end": 46.18,
+     "conf": 0.84
+    }
+   ]
+  },
+  {
+   "i": 11,
+   "text": "Sanft singt der Rabe im Wind",
+   "start": 46.52,
+   "end": 48.8,
+   "words": [
+    {
+     "w": "Sanft",
+     "start": 46.52,
+     "end": 46.96,
+     "conf": 0.04
+    },
+    {
+     "w": "singt",
+     "start": 46.94,
+     "end": 47.2,
+     "conf": 0.03
+    },
+    {
+     "w": "der",
+     "start": 47.18,
+     "end": 47.46,
+     "conf": 0.03
+    },
+    {
+     "w": "Rabe",
+     "start": 47.46,
+     "end": 48.1,
+     "conf": 0.13
+    },
+    {
+     "w": "im",
+     "start": 48.1,
+     "end": 48.32,
+     "conf": 0.19
+    },
+    {
+     "w": "Wind",
+     "start": 48.32,
+     "end": 48.8,
+     "conf": 0.09
+    }
+   ]
+  },
+  {
+   "i": 12,
+   "text": "Lieb mich wie ich bin",
+   "start": 49.16,
+   "end": 50.6,
+   "words": [
+    {
+     "w": "Lieb",
+     "start": 49.16,
+     "end": 49.36,
+     "conf": 0.05
+    },
+    {
+     "w": "mich",
+     "start": 49.4,
+     "end": 49.62,
+     "conf": 0.05
+    },
+    {
+     "w": "wie",
+     "start": 49.62,
+     "end": 49.88,
+     "conf": 0.03
+    },
+    {
+     "w": "ich",
+     "start": 49.88,
+     "end": 50.04,
+     "conf": 0.04
+    },
+    {
+     "w": "bin",
+     "start": 50.08,
+     "end": 50.6,
+     "conf": 0.01
+    }
+   ]
+  },
+  {
+   "i": 13,
+   "text": "Lieb mich wie ich wär",
+   "start": 50.94,
+   "end": 52.42,
+   "words": [
+    {
+     "w": "Lieb",
+     "start": 50.94,
+     "end": 51.14,
+     "conf": 0.18
+    },
+    {
+     "w": "mich",
+     "start": 51.18,
+     "end": 51.38,
+     "conf": 0.21
+    },
+    {
+     "w": "wie",
+     "start": 51.36,
+     "end": 51.62,
+     "conf": 0.09
+    },
+    {
+     "w": "ich",
+     "start": 51.62,
+     "end": 51.82,
+     "conf": 0.18
+    },
+    {
+     "w": "wär",
+     "start": 51.82,
+     "end": 52.42,
+     "conf": 0.14
+    }
+   ]
+  },
+  {
+   "i": 14,
+   "text": "Lieb mich wie du willst",
+   "start": 52.74,
+   "end": 54.14,
+   "words": [
+    {
+     "w": "Lieb",
+     "start": 52.74,
+     "end": 52.96,
+     "conf": 0.18
+    },
+    {
+     "w": "mich",
+     "start": 52.96,
+     "end": 53.18,
+     "conf": 0.16
+    },
+    {
+     "w": "wie",
+     "start": 53.18,
+     "end": 53.38,
+     "conf": 0.06
+    },
+    {
+     "w": "du",
+     "start": 53.38,
+     "end": 53.62,
+     "conf": 0.16
+    },
+    {
+     "w": "willst",
+     "start": 53.62,
+     "end": 54.14,
+     "conf": 0.14
+    }
+   ]
+  },
+  {
+   "i": 15,
+   "text": "Und noch viel mehr",
+   "start": 54.36,
+   "end": 55.94,
+   "words": [
+    {
+     "w": "Und",
+     "start": 54.36,
+     "end": 54.54,
+     "conf": 0.25
+    },
+    {
+     "w": "noch",
+     "start": 54.54,
+     "end": 54.94,
+     "conf": 0.33
+    },
+    {
+     "w": "viel",
+     "start": 54.94,
+     "end": 55.38,
+     "conf": 0.07
+    },
+    {
+     "w": "mehr",
+     "start": 55.38,
+     "end": 55.94,
+     "conf": 0.25
+    }
+   ]
+  },
+  {
+   "i": 16,
+   "text": "Lieb mich weil du kannst",
+   "start": 56.34,
+   "end": 58.02,
+   "words": [
+    {
+     "w": "Lieb",
+     "start": 56.34,
+     "end": 56.54,
+     "conf": 0.18
+    },
+    {
+     "w": "mich",
+     "start": 56.54,
+     "end": 56.78,
+     "conf": 0.24
+    },
+    {
+     "w": "weil",
+     "start": 56.78,
+     "end": 57.0,
+     "conf": 0.16
+    },
+    {
+     "w": "du",
+     "start": 57.0,
+     "end": 57.16,
+     "conf": 0.23
+    },
+    {
+     "w": "kannst",
+     "start": 57.18,
+     "end": 58.02,
+     "conf": 0.23
+    }
+   ]
+  },
+  {
+   "i": 17,
+   "text": "Lieb mich weil du musst",
+   "start": 58.02,
+   "end": 59.44,
+   "words": [
+    {
+     "w": "Lieb",
+     "start": 58.02,
+     "end": 58.24,
+     "conf": 0.2
+    },
+    {
+     "w": "mich",
+     "start": 58.28,
+     "end": 58.48,
+     "conf": 0.14
+    },
+    {
+     "w": "weil",
+     "start": 58.46,
+     "end": 58.72,
+     "conf": 0.13
+    },
+    {
+     "w": "du",
+     "start": 58.72,
+     "end": 58.94,
+     "conf": 0.18
+    },
+    {
+     "w": "musst",
+     "start": 58.94,
+     "end": 59.44,
+     "conf": 0.19
+    }
+   ]
+  },
+  {
+   "i": 18,
+   "text": "Von heut an bis zum Schluss",
+   "start": 60.24,
+   "end": 63.14,
+   "words": [
+    {
+     "w": "Von",
+     "start": 60.24,
+     "end": 60.76,
+     "conf": 0.62
+    },
+    {
+     "w": "heut",
+     "start": 60.76,
+     "end": 61.42,
+     "conf": 0.61
+    },
+    {
+     "w": "an",
+     "start": 61.42,
+     "end": 61.6,
+     "conf": 0.29
+    },
+    {
+     "w": "bis",
+     "start": 61.6,
+     "end": 62.02,
+     "conf": 0.72
+    },
+    {
+     "w": "zum",
+     "start": 62.02,
+     "end": 62.42,
+     "conf": 0.68
+    },
+    {
+     "w": "Schluss",
+     "start": 62.42,
+     "end": 63.14,
+     "conf": 0.66
+    }
+   ]
+  },
+  {
+   "i": 19,
+   "text": "Lieb mich wenn ich wein",
+   "start": 63.34,
+   "end": 65.14,
+   "words": [
+    {
+     "w": "Lieb",
+     "start": 63.34,
+     "end": 63.56,
+     "conf": 0.51
+    },
+    {
+     "w": "mich",
+     "start": 63.62,
+     "end": 63.82,
+     "conf": 0.6
+    },
+    {
+     "w": "wenn",
+     "start": 63.82,
+     "end": 64.1,
+     "conf": 0.33
+    },
+    {
+     "w": "ich",
+     "start": 64.1,
+     "end": 64.28,
+     "conf": 0.45
+    },
+    {
+     "w": "wein",
+     "start": 64.28,
+     "end": 65.14,
+     "conf": 0.58
+    }
+   ]
+  },
+  {
+   "i": 20,
+   "text": "Lieb mich wenn ich lach",
+   "start": 65.14,
+   "end": 66.5,
+   "words": [
+    {
+     "w": "Lieb",
+     "start": 65.14,
+     "end": 65.4,
+     "conf": 0.59
+    },
+    {
+     "w": "mich",
+     "start": 65.4,
+     "end": 65.6,
+     "conf": 0.79
+    },
+    {
+     "w": "wenn",
+     "start": 65.6,
+     "end": 65.9,
+     "conf": 0.43
+    },
+    {
+     "w": "ich",
+     "start": 65.9,
+     "end": 66.1,
+     "conf": 0.45
+    },
+    {
+     "w": "lach",
+     "start": 66.1,
+     "end": 66.5,
+     "conf": 0.74
+    }
+   ]
+  },
+  {
+   "i": 21,
+   "text": "Lieb mich wie du willst",
+   "start": 66.8,
+   "end": 68.32,
+   "words": [
+    {
+     "w": "Lieb",
+     "start": 66.8,
+     "end": 67.2,
+     "conf": 0.23
+    },
+    {
+     "w": "mich",
+     "start": 67.2,
+     "end": 67.38,
+     "conf": 0.19
+    },
+    {
+     "w": "wie",
+     "start": 67.38,
+     "end": 67.68,
+     "conf": 0.42
+    },
+    {
+     "w": "du",
+     "start": 67.68,
+     "end": 67.86,
+     "conf": 0.01
+    },
+    {
+     "w": "willst",
+     "start": 67.86,
+     "end": 68.32,
+     "conf": 0.31
+    }
+   ]
+  },
+  {
+   "i": 22,
+   "text": "Bei Tag und Nacht",
+   "start": 68.5,
+   "end": 70.06,
+   "words": [
+    {
+     "w": "Bei",
+     "start": 68.5,
+     "end": 68.7,
+     "conf": 0.37
+    },
+    {
+     "w": "Tag",
+     "start": 68.74,
+     "end": 69.14,
+     "conf": 0.95
+    },
+    {
+     "w": "und",
+     "start": 69.26,
+     "end": 69.6,
+     "conf": 0.56
+    },
+    {
+     "w": "Nacht",
+     "start": 69.6,
+     "end": 70.06,
+     "conf": 0.92
+    }
+   ]
+  },
+  {
+   "i": 23,
+   "text": "Lieb mich einfach so",
+   "start": 70.44,
+   "end": 72.26,
+   "words": [
+    {
+     "w": "Lieb",
+     "start": 70.44,
+     "end": 70.74,
+     "conf": 0.51
+    },
+    {
+     "w": "mich",
+     "start": 70.74,
+     "end": 71.0,
+     "conf": 0.89
+    },
+    {
+     "w": "einfach",
+     "start": 71.0,
+     "end": 71.38,
+     "conf": 0.61
+    },
+    {
+     "w": "so",
+     "start": 71.38,
+     "end": 72.26,
+     "conf": 0.78
+    }
+   ]
+  },
+  {
+   "i": 24,
+   "text": "Lieb doch was ich bin",
+   "start": 72.26,
+   "end": 74.02,
+   "words": [
+    {
+     "w": "Lieb",
+     "start": 72.26,
+     "end": 72.46,
+     "conf": 0.46
+    },
+    {
+     "w": "doch",
+     "start": 72.48,
+     "end": 72.7,
+     "conf": 0.08
+    },
+    {
+     "w": "was",
+     "start": 72.7,
+     "end": 73.0,
+     "conf": 0.53
+    },
+    {
+     "w": "ich",
+     "start": 73.0,
+     "end": 73.16,
+     "conf": 0.3
+    },
+    {
+     "w": "bin",
+     "start": 73.18,
+     "end": 74.02,
+     "conf": 0.7
+    }
+   ]
+  },
+  {
+   "i": 25,
+   "text": "Nur so macht Liebe sinn",
+   "start": 74.48,
+   "end": 77.5,
+   "words": [
+    {
+     "w": "Nur",
+     "start": 74.48,
+     "end": 74.96,
+     "conf": 0.22
+    },
+    {
+     "w": "so",
+     "start": 74.96,
+     "end": 75.44,
+     "conf": 0.51
+    },
+    {
+     "w": "macht",
+     "start": 75.6,
+     "end": 75.86,
+     "conf": 0.34
+    },
+    {
+     "w": "Liebe",
+     "start": 75.86,
+     "end": 76.74,
+     "conf": 0.37
+    },
+    {
+     "w": "sinn",
+     "start": 76.74,
+     "end": 77.5,
+     "conf": 0.35
+    }
+   ]
+  },
+  {
+   "i": 26,
+   "text": "Ich halt den Atem an",
+   "start": 86.2,
+   "end": 88.72,
+   "words": [
+    {
+     "w": "Ich",
+     "start": 86.2,
+     "end": 86.5,
+     "conf": 0.37
+    },
+    {
+     "w": "halt",
+     "start": 86.5,
+     "end": 86.94,
+     "conf": 0.58
+    },
+    {
+     "w": "den",
+     "start": 87.0,
+     "end": 87.32,
+     "conf": 0.5
+    },
+    {
+     "w": "Atem",
+     "start": 87.48,
+     "end": 88.0,
+     "conf": 0.72
+    },
+    {
+     "w": "an",
+     "start": 88.16,
+     "end": 88.72,
+     "conf": 0.58
+    }
+   ]
+  },
+  {
+   "i": 27,
+   "text": "Du bist schön so wunderschön",
+   "start": 88.72,
+   "end": 92.02,
+   "words": [
+    {
+     "w": "Du",
+     "start": 88.72,
+     "end": 88.94,
+     "conf": 0.46
+    },
+    {
+     "w": "bist",
+     "start": 88.94,
+     "end": 89.16,
+     "conf": 0.18
+    },
+    {
+     "w": "schön",
+     "start": 89.14,
+     "end": 89.86,
+     "conf": 0.15
+    },
+    {
+     "w": "so",
+     "start": 89.86,
+     "end": 90.08,
+     "conf": 0.34
+    },
+    {
+     "w": "wunderschön",
+     "start": 90.08,
+     "end": 92.02,
+     "conf": 0.73
+    }
+   ]
+  },
+  {
+   "i": 28,
+   "text": "Ich halt den Atem an",
+   "start": 93.26,
+   "end": 95.84,
+   "words": [
+    {
+     "w": "Ich",
+     "start": 93.26,
+     "end": 93.6,
+     "conf": 0.98
+    },
+    {
+     "w": "halt",
+     "start": 93.6,
+     "end": 94.0,
+     "conf": 0.78
+    },
+    {
+     "w": "den",
+     "start": 94.08,
+     "end": 94.46,
+     "conf": 0.7
+    },
+    {
+     "w": "Atem",
+     "start": 94.58,
+     "end": 95.14,
+     "conf": 0.99
+    },
+    {
+     "w": "an",
+     "start": 95.26,
+     "end": 95.84,
+     "conf": 0.98
+    }
+   ]
+  },
+  {
+   "i": 29,
+   "text": "Du bezahlst und willst schon gehen",
+   "start": 95.86,
+   "end": 98.9,
+   "words": [
+    {
+     "w": "Du",
+     "start": 95.86,
+     "end": 96.08,
+     "conf": 0.99
+    },
+    {
+     "w": "bezahlst",
+     "start": 96.08,
+     "end": 97.02,
+     "conf": 0.76
+    },
+    {
+     "w": "und",
+     "start": 97.02,
+     "end": 97.18,
+     "conf": 0.84
+    },
+    {
+     "w": "willst",
+     "start": 97.18,
+     "end": 97.82,
+     "conf": 0.5
+    },
+    {
+     "w": "schon",
+     "start": 97.8,
+     "end": 98.08,
+     "conf": 0.46
+    },
+    {
+     "w": "gehen",
+     "start": 98.08,
+     "end": 98.9,
+     "conf": 0.49
+    }
+   ]
+  },
+  {
+   "i": 30,
+   "text": "Ja doch ich folg Dir",
+   "start": 99.18,
+   "end": 100.74,
+   "words": [
+    {
+     "w": "Ja",
+     "start": 99.18,
+     "end": 99.4,
+     "conf": 0.98
+    },
+    {
+     "w": "doch",
+     "start": 99.4,
+     "end": 99.66,
+     "conf": 0.99
+    },
+    {
+     "w": "ich",
+     "start": 99.66,
+     "end": 99.82,
+     "conf": 0.96
+    },
+    {
+     "w": "folg",
+     "start": 99.82,
+     "end": 100.2,
+     "conf": 0.98
+    },
+    {
+     "w": "Dir",
+     "start": 100.28,
+     "end": 100.74,
+     "conf": 0.53
+    }
+   ]
+  },
+  {
+   "i": 31,
+   "text": "Ich folg auf Schritt und Tritt",
+   "start": 101.0,
+   "end": 102.66,
+   "words": [
+    {
+     "w": "Ich",
+     "start": 101.0,
+     "end": 101.14,
+     "conf": 0.97
+    },
+    {
+     "w": "folg",
+     "start": 101.14,
+     "end": 101.44,
+     "conf": 0.85
+    },
+    {
+     "w": "auf",
+     "start": 101.44,
+     "end": 101.58,
+     "conf": 0.89
+    },
+    {
+     "w": "Schritt",
+     "start": 101.58,
+     "end": 101.92,
+     "conf": 0.2
+    },
+    {
+     "w": "und",
+     "start": 101.92,
+     "end": 102.22,
+     "conf": 0.24
+    },
+    {
+     "w": "Tritt",
+     "start": 102.26,
+     "end": 102.66,
+     "conf": 0.27
+    }
+   ]
+  },
+  {
+   "i": 32,
+   "text": "Keine Ahnung wo du hinwillst",
+   "start": 102.96,
+   "end": 104.72,
+   "words": [
+    {
+     "w": "Keine",
+     "start": 102.96,
+     "end": 103.36,
+     "conf": 0.99
+    },
+    {
+     "w": "Ahnung",
+     "start": 103.48,
+     "end": 103.88,
+     "conf": 0.96
+    },
+    {
+     "w": "wo",
+     "start": 103.88,
+     "end": 104.1,
+     "conf": 0.48
+    },
+    {
+     "w": "du",
+     "start": 104.1,
+     "end": 104.28,
+     "conf": 0.0
+    },
+    {
+     "w": "hinwillst",
+     "start": 104.28,
+     "end": 104.72,
+     "conf": 0.53
+    }
+   ]
+  },
+  {
+   "i": 33,
+   "text": "Doch da komm ich mit",
+   "start": 104.72,
+   "end": 106.18,
+   "words": [
+    {
+     "w": "Doch",
+     "start": 104.72,
+     "end": 104.92,
+     "conf": 0.83
+    },
+    {
+     "w": "da",
+     "start": 104.94,
+     "end": 105.08,
+     "conf": 0.04
+    },
+    {
+     "w": "komm",
+     "start": 105.14,
+     "end": 105.46,
+     "conf": 0.88
+    },
+    {
+     "w": "ich",
+     "start": 105.46,
+     "end": 105.84,
+     "conf": 0.88
+    },
+    {
+     "w": "mit",
+     "start": 105.84,
+     "end": 106.18,
+     "conf": 0.68
+    }
+   ]
+  },
+  {
+   "i": 34,
+   "text": "Ja und ich folg Dir",
+   "start": 106.28,
+   "end": 107.88,
+   "words": [
+    {
+     "w": "Ja",
+     "start": 106.28,
+     "end": 106.56,
+     "conf": 0.92
+    },
+    {
+     "w": "und",
+     "start": 106.56,
+     "end": 106.8,
+     "conf": 0.24
+    },
+    {
+     "w": "ich",
+     "start": 106.8,
+     "end": 106.94,
+     "conf": 0.85
+    },
+    {
+     "w": "folg",
+     "start": 106.96,
+     "end": 107.34,
+     "conf": 0.97
+    },
+    {
+     "w": "Dir",
+     "start": 107.38,
+     "end": 107.88,
+     "conf": 0.66
+    }
+   ]
+  },
+  {
+   "i": 35,
+   "text": "Ich will doch nur lieben",
+   "start": 108.3,
+   "end": 110.08,
+   "words": [
+    {
+     "w": "Ich",
+     "start": 108.3,
+     "end": 108.5,
+     "conf": 0.98
+    },
+    {
+     "w": "will",
+     "start": 108.5,
+     "end": 108.72,
+     "conf": 0.97
+    },
+    {
+     "w": "doch",
+     "start": 108.72,
+     "end": 108.96,
+     "conf": 0.99
+    },
+    {
+     "w": "nur",
+     "start": 108.96,
+     "end": 109.4,
+     "conf": 0.77
+    },
+    {
+     "w": "lieben",
+     "start": 109.4,
+     "end": 110.08,
+     "conf": 0.72
+    }
+   ]
+  },
+  {
+   "i": 36,
+   "text": "Und noch in dieser Nacht",
+   "start": 110.32,
+   "end": 111.68,
+   "words": [
+    {
+     "w": "Und",
+     "start": 110.32,
+     "end": 110.5,
+     "conf": 0.81
+    },
+    {
+     "w": "noch",
+     "start": 110.5,
+     "end": 110.72,
+     "conf": 0.99
+    },
+    {
+     "w": "in",
+     "start": 110.78,
+     "end": 110.96,
+     "conf": 0.98
+    },
+    {
+     "w": "dieser",
+     "start": 110.96,
+     "end": 111.4,
+     "conf": 0.96
+    },
+    {
+     "w": "Nacht",
+     "start": 111.4,
+     "end": 111.68,
+     "conf": 0.99
+    }
+   ]
+  },
+  {
+   "i": 37,
+   "text": "An deiner Seite liegen",
+   "start": 111.68,
+   "end": 113.72,
+   "words": [
+    {
+     "w": "An",
+     "start": 111.68,
+     "end": 111.86,
+     "conf": 0.98
+    },
+    {
+     "w": "deiner",
+     "start": 111.86,
+     "end": 112.3,
+     "conf": 0.99
+    },
+    {
+     "w": "Seite",
+     "start": 112.3,
+     "end": 112.94,
+     "conf": 0.85
+    },
+    {
+     "w": "liegen",
+     "start": 112.94,
+     "end": 113.72,
+     "conf": 0.83
+    }
+   ]
+  },
+  {
+   "i": 38,
+   "text": "Sanft singt der Rabe im Wind",
+   "start": 113.92,
+   "end": 116.36,
+   "words": [
+    {
+     "w": "Sanft",
+     "start": 113.92,
+     "end": 114.52,
+     "conf": 0.0
+    },
+    {
+     "w": "singt",
+     "start": 114.5,
+     "end": 114.76,
+     "conf": 0.0
+    },
+    {
+     "w": "der",
+     "start": 114.74,
+     "end": 115.0,
+     "conf": 0.01
+    },
+    {
+     "w": "Rabe",
+     "start": 115.0,
+     "end": 115.66,
+     "conf": 0.02
+    },
+    {
+     "w": "im",
+     "start": 115.66,
+     "end": 115.86,
+     "conf": 0.01
+    },
+    {
+     "w": "Wind",
+     "start": 115.86,
+     "end": 116.36,
+     "conf": 0.0
+    }
+   ]
+  },
+  {
+   "i": 39,
+   "text": "Lieb mich wie ich bin",
+   "start": 116.7,
+   "end": 118.5,
+   "words": [
+    {
+     "w": "Lieb",
+     "start": 116.7,
+     "end": 116.9,
+     "conf": 0.03
+    },
+    {
+     "w": "mich",
+     "start": 116.96,
+     "end": 117.18,
+     "conf": 0.03
+    },
+    {
+     "w": "wie",
+     "start": 117.2,
+     "end": 117.42,
+     "conf": 0.03
+    },
+    {
+     "w": "ich",
+     "start": 117.42,
+     "end": 117.6,
+     "conf": 0.02
+    },
+    {
+     "w": "bin",
+     "start": 117.64,
+     "end": 118.5,
+     "conf": 0.01
+    }
+   ]
+  },
+  {
+   "i": 40,
+   "text": "Lieb mich wie ich wär",
+   "start": 118.5,
+   "end": 120.02,
+   "words": [
+    {
+     "w": "Lieb",
+     "start": 118.5,
+     "end": 118.7,
+     "conf": 0.01
+    },
+    {
+     "w": "mich",
+     "start": 118.72,
+     "end": 118.94,
+     "conf": 0.03
+    },
+    {
+     "w": "wie",
+     "start": 118.92,
+     "end": 119.22,
+     "conf": 0.03
+    },
+    {
+     "w": "ich",
+     "start": 119.2,
+     "end": 119.38,
+     "conf": 0.03
+    },
+    {
+     "w": "wär",
+     "start": 119.38,
+     "end": 120.02,
+     "conf": 0.03
+    }
+   ]
+  },
+  {
+   "i": 41,
+   "text": "Lieb mich wie du willst",
+   "start": 120.26,
+   "end": 121.66,
+   "words": [
+    {
+     "w": "Lieb",
+     "start": 120.26,
+     "end": 120.52,
+     "conf": 0.08
+    },
+    {
+     "w": "mich",
+     "start": 120.52,
+     "end": 120.72,
+     "conf": 0.11
+    },
+    {
+     "w": "wie",
+     "start": 120.7,
+     "end": 120.98,
+     "conf": 0.11
+    },
+    {
+     "w": "du",
+     "start": 120.98,
+     "end": 121.18,
+     "conf": 0.12
+    },
+    {
+     "w": "willst",
+     "start": 121.18,
+     "end": 121.66,
+     "conf": 0.08
+    }
+   ]
+  },
+  {
+   "i": 42,
+   "text": "Und noch viel mehr",
+   "start": 121.92,
+   "end": 123.52,
+   "words": [
+    {
+     "w": "Und",
+     "start": 121.92,
+     "end": 122.1,
+     "conf": 0.33
+    },
+    {
+     "w": "noch",
+     "start": 122.1,
+     "end": 122.48,
+     "conf": 0.42
+    },
+    {
+     "w": "viel",
+     "start": 122.48,
+     "end": 122.94,
+     "conf": 0.13
+    },
+    {
+     "w": "mehr",
+     "start": 122.94,
+     "end": 123.52,
+     "conf": 0.27
+    }
+   ]
+  },
+  {
+   "i": 43,
+   "text": "Lieb mich weil du kannst",
+   "start": 123.88,
+   "end": 125.6,
+   "words": [
+    {
+     "w": "Lieb",
+     "start": 123.88,
+     "end": 124.1,
+     "conf": 0.3
+    },
+    {
+     "w": "mich",
+     "start": 124.1,
+     "end": 124.32,
+     "conf": 0.28
+    },
+    {
+     "w": "weil",
+     "start": 124.32,
+     "end": 124.58,
+     "conf": 0.33
+    },
+    {
+     "w": "du",
+     "start": 124.58,
+     "end": 124.74,
+     "conf": 0.2
+    },
+    {
+     "w": "kannst",
+     "start": 124.74,
+     "end": 125.6,
+     "conf": 0.38
+    }
+   ]
+  },
+  {
+   "i": 44,
+   "text": "Lieb mich weil du musst",
+   "start": 125.6,
+   "end": 127.0,
+   "words": [
+    {
+     "w": "Lieb",
+     "start": 125.6,
+     "end": 125.8,
+     "conf": 0.27
+    },
+    {
+     "w": "mich",
+     "start": 125.84,
+     "end": 126.06,
+     "conf": 0.26
+    },
+    {
+     "w": "weil",
+     "start": 126.06,
+     "end": 126.32,
+     "conf": 0.32
+    },
+    {
+     "w": "du",
+     "start": 126.32,
+     "end": 126.5,
+     "conf": 0.22
+    },
+    {
+     "w": "musst",
+     "start": 126.5,
+     "end": 127.0,
+     "conf": 0.26
+    }
+   ]
+  },
+  {
+   "i": 45,
+   "text": "Von heut an bis zum Schluss",
+   "start": 127.8,
+   "end": 130.68,
+   "words": [
+    {
+     "w": "Von",
+     "start": 127.8,
+     "end": 128.3,
+     "conf": 0.61
+    },
+    {
+     "w": "heut",
+     "start": 128.3,
+     "end": 129.0,
+     "conf": 0.24
+    },
+    {
+     "w": "an",
+     "start": 129.0,
+     "end": 129.14,
+     "conf": 0.69
+    },
+    {
+     "w": "bis",
+     "start": 129.14,
+     "end": 129.58,
+     "conf": 0.32
+    },
+    {
+     "w": "zum",
+     "start": 129.58,
+     "end": 129.98,
+     "conf": 0.35
+    },
+    {
+     "w": "Schluss",
+     "start": 129.98,
+     "end": 130.68,
+     "conf": 0.31
+    }
+   ]
+  },
+  {
+   "i": 46,
+   "text": "Lieb mich wenn ich wein",
+   "start": 130.86,
+   "end": 132.7,
+   "words": [
+    {
+     "w": "Lieb",
+     "start": 130.86,
+     "end": 131.12,
+     "conf": 0.2
+    },
+    {
+     "w": "mich",
+     "start": 131.16,
+     "end": 131.38,
+     "conf": 0.25
+    },
+    {
+     "w": "wenn",
+     "start": 131.38,
+     "end": 131.66,
+     "conf": 0.26
+    },
+    {
+     "w": "ich",
+     "start": 131.66,
+     "end": 131.84,
+     "conf": 0.21
+    },
+    {
+     "w": "wein",
+     "start": 131.84,
+     "end": 132.7,
+     "conf": 0.28
+    }
+   ]
+  },
+  {
+   "i": 47,
+   "text": "Lieb mich wenn ich lach",
+   "start": 132.7,
+   "end": 134.06,
+   "words": [
+    {
+     "w": "Lieb",
+     "start": 132.7,
+     "end": 132.94,
+     "conf": 0.25
+    },
+    {
+     "w": "mich",
+     "start": 132.94,
+     "end": 133.16,
+     "conf": 0.26
+    },
+    {
+     "w": "wenn",
+     "start": 133.16,
+     "end": 133.46,
+     "conf": 0.29
+    },
+    {
+     "w": "ich",
+     "start": 133.46,
+     "end": 133.66,
+     "conf": 0.23
+    },
+    {
+     "w": "lach",
+     "start": 133.66,
+     "end": 134.06,
+     "conf": 0.45
+    }
+   ]
+  },
+  {
+   "i": 48,
+   "text": "Lieb mich wie du willst",
+   "start": 134.44,
+   "end": 135.86,
+   "words": [
+    {
+     "w": "Lieb",
+     "start": 134.44,
+     "end": 134.7,
+     "conf": 0.09
+    },
+    {
+     "w": "mich",
+     "start": 134.74,
+     "end": 134.96,
+     "conf": 0.14
+    },
+    {
+     "w": "wie",
+     "start": 134.94,
+     "end": 135.18,
+     "conf": 0.14
+    },
+    {
+     "w": "du",
+     "start": 135.18,
+     "end": 135.4,
+     "conf": 0.1
+    },
+    {
+     "w": "willst",
+     "start": 135.4,
+     "end": 135.86,
+     "conf": 0.12
+    }
+   ]
+  },
+  {
+   "i": 49,
+   "text": "Bei Tag und Nacht",
+   "start": 136.06,
+   "end": 137.64,
+   "words": [
+    {
+     "w": "Bei",
+     "start": 136.06,
+     "end": 136.26,
+     "conf": 0.07
+    },
+    {
+     "w": "Tag",
+     "start": 136.28,
+     "end": 136.8,
+     "conf": 0.29
+    },
+    {
+     "w": "und",
+     "start": 136.8,
+     "end": 137.16,
+     "conf": 0.11
+    },
+    {
+     "w": "Nacht",
+     "start": 137.16,
+     "end": 137.64,
+     "conf": 0.52
+    }
+   ]
+  },
+  {
+   "i": 50,
+   "text": "Lieb mich einfach so",
+   "start": 138.06,
+   "end": 139.82,
+   "words": [
+    {
+     "w": "Lieb",
+     "start": 138.06,
+     "end": 138.28,
+     "conf": 0.22
+    },
+    {
+     "w": "mich",
+     "start": 138.28,
+     "end": 138.54,
+     "conf": 0.34
+    },
+    {
+     "w": "einfach",
+     "start": 138.54,
+     "end": 139.02,
+     "conf": 0.29
+    },
+    {
+     "w": "so",
+     "start": 139.02,
+     "end": 139.82,
+     "conf": 0.23
+    }
+   ]
+  },
+  {
+   "i": 51,
+   "text": "Lieb doch was ich bin",
+   "start": 139.82,
+   "end": 141.58,
+   "words": [
+    {
+     "w": "Lieb",
+     "start": 139.82,
+     "end": 140.02,
+     "conf": 0.38
+    },
+    {
+     "w": "doch",
+     "start": 140.04,
+     "end": 140.26,
+     "conf": 0.12
+    },
+    {
+     "w": "was",
+     "start": 140.26,
+     "end": 140.56,
+     "conf": 0.7
+    },
+    {
+     "w": "ich",
+     "start": 140.56,
+     "end": 140.7,
+     "conf": 0.26
+    },
+    {
+     "w": "bin",
+     "start": 140.72,
+     "end": 141.58,
+     "conf": 0.59
+    }
+   ]
+  },
+  {
+   "i": 52,
+   "text": "Nur so macht Liebe sinn",
+   "start": 142.04,
+   "end": 145.08,
+   "words": [
+    {
+     "w": "Nur",
+     "start": 142.04,
+     "end": 142.52,
+     "conf": 0.42
+    },
+    {
+     "w": "so",
+     "start": 142.52,
+     "end": 142.98,
+     "conf": 0.35
+    },
+    {
+     "w": "macht",
+     "start": 143.14,
+     "end": 143.4,
+     "conf": 0.37
+    },
+    {
+     "w": "Liebe",
+     "start": 143.4,
+     "end": 144.28,
+     "conf": 0.5
+    },
+    {
+     "w": "sinn",
+     "start": 144.28,
+     "end": 145.08,
+     "conf": 0.32
+    }
+   ]
+  },
+  {
+   "i": 53,
+   "text": "Lieb mich wie ich bin",
+   "start": 187.82,
+   "end": 189.28,
+   "words": [
+    {
+     "w": "Lieb",
+     "start": 187.82,
+     "end": 188.04,
+     "conf": 0.01
+    },
+    {
+     "w": "mich",
+     "start": 188.08,
+     "end": 188.3,
+     "conf": 0.01
+    },
+    {
+     "w": "wie",
+     "start": 188.3,
+     "end": 188.52,
+     "conf": 0.0
+    },
+    {
+     "w": "ich",
+     "start": 188.52,
+     "end": 188.72,
+     "conf": 0.0
+    },
+    {
+     "w": "bin",
+     "start": 188.76,
+     "end": 189.28,
+     "conf": 0.01
+    }
+   ]
+  },
+  {
+   "i": 54,
+   "text": "Lieb mich wie ich wär",
+   "start": 189.6,
+   "end": 191.28,
+   "words": [
+    {
+     "w": "Lieb",
+     "start": 189.6,
+     "end": 189.8,
+     "conf": 0.09
+    },
+    {
+     "w": "mich",
+     "start": 189.84,
+     "end": 190.04,
+     "conf": 0.16
+    },
+    {
+     "w": "wie",
+     "start": 190.04,
+     "end": 190.3,
+     "conf": 0.13
+    },
+    {
+     "w": "ich",
+     "start": 190.3,
+     "end": 190.5,
+     "conf": 0.24
+    },
+    {
+     "w": "wär",
+     "start": 190.5,
+     "end": 191.28,
+     "conf": 0.32
+    }
+   ]
+  },
+  {
+   "i": 55,
+   "text": "Lieb mich wie du willst",
+   "start": 191.4,
+   "end": 192.8,
+   "words": [
+    {
+     "w": "Lieb",
+     "start": 191.4,
+     "end": 191.64,
+     "conf": 0.64
+    },
+    {
+     "w": "mich",
+     "start": 191.64,
+     "end": 191.84,
+     "conf": 0.72
+    },
+    {
+     "w": "wie",
+     "start": 191.84,
+     "end": 192.08,
+     "conf": 0.33
+    },
+    {
+     "w": "du",
+     "start": 192.08,
+     "end": 192.3,
+     "conf": 0.58
+    },
+    {
+     "w": "willst",
+     "start": 192.3,
+     "end": 192.8,
+     "conf": 0.38
+    }
+   ]
+  },
+  {
+   "i": 56,
+   "text": "Und noch viel mehr",
+   "start": 193.04,
+   "end": 194.78,
+   "words": [
+    {
+     "w": "Und",
+     "start": 193.04,
+     "end": 193.22,
+     "conf": 0.67
+    },
+    {
+     "w": "noch",
+     "start": 193.22,
+     "end": 193.6,
+     "conf": 0.95
+    },
+    {
+     "w": "viel",
+     "start": 193.6,
+     "end": 194.06,
+     "conf": 0.83
+    },
+    {
+     "w": "mehr",
+     "start": 194.06,
+     "end": 194.78,
+     "conf": 0.92
+    }
+   ]
+  },
+  {
+   "i": 57,
+   "text": "Lieb mich weil du kannst",
+   "start": 194.98,
+   "end": 196.42,
+   "words": [
+    {
+     "w": "Lieb",
+     "start": 194.98,
+     "end": 195.22,
+     "conf": 0.5
+    },
+    {
+     "w": "mich",
+     "start": 195.22,
+     "end": 195.44,
+     "conf": 0.9
+    },
+    {
+     "w": "weil",
+     "start": 195.44,
+     "end": 195.68,
+     "conf": 0.95
+    },
+    {
+     "w": "du",
+     "start": 195.68,
+     "end": 195.82,
+     "conf": 0.9
+    },
+    {
+     "w": "kannst",
+     "start": 195.86,
+     "end": 196.42,
+     "conf": 0.7
+    }
+   ]
+  },
+  {
+   "i": 58,
+   "text": "Lieb mich weil du musst",
+   "start": 196.72,
+   "end": 198.12,
+   "words": [
+    {
+     "w": "Lieb",
+     "start": 196.72,
+     "end": 196.96,
+     "conf": 0.72
+    },
+    {
+     "w": "mich",
+     "start": 196.96,
+     "end": 197.16,
+     "conf": 0.79
+    },
+    {
+     "w": "weil",
+     "start": 197.16,
+     "end": 197.4,
+     "conf": 0.69
+    },
+    {
+     "w": "du",
+     "start": 197.4,
+     "end": 197.6,
+     "conf": 0.62
+    },
+    {
+     "w": "musst",
+     "start": 197.6,
+     "end": 198.12,
+     "conf": 0.45
+    }
+   ]
+  },
+  {
+   "i": 59,
+   "text": "Von heut an bis zum Schluss",
+   "start": 198.92,
+   "end": 201.8,
+   "words": [
+    {
+     "w": "Von",
+     "start": 198.92,
+     "end": 199.42,
+     "conf": 0.82
+    },
+    {
+     "w": "heut",
+     "start": 199.42,
+     "end": 200.12,
+     "conf": 0.59
+    },
+    {
+     "w": "an",
+     "start": 200.12,
+     "end": 200.26,
+     "conf": 0.93
+    },
+    {
+     "w": "bis",
+     "start": 200.26,
+     "end": 200.7,
+     "conf": 0.76
+    },
+    {
+     "w": "zum",
+     "start": 200.7,
+     "end": 201.08,
+     "conf": 0.36
+    },
+    {
+     "w": "Schluss",
+     "start": 201.08,
+     "end": 201.8,
+     "conf": 0.54
+    }
+   ]
+  },
+  {
+   "i": 60,
+   "text": "Lieb mich wenn ich wein",
+   "start": 201.98,
+   "end": 203.84,
+   "words": [
+    {
+     "w": "Lieb",
+     "start": 201.98,
+     "end": 202.28,
+     "conf": 0.55
+    },
+    {
+     "w": "mich",
+     "start": 202.28,
+     "end": 202.5,
+     "conf": 0.66
+    },
+    {
+     "w": "wenn",
+     "start": 202.5,
+     "end": 202.78,
+     "conf": 0.37
+    },
+    {
+     "w": "ich",
+     "start": 202.78,
+     "end": 202.94,
+     "conf": 0.3
+    },
+    {
+     "w": "wein",
+     "start": 202.94,
+     "end": 203.84,
+     "conf": 0.21
+    }
+   ]
+  },
+  {
+   "i": 61,
+   "text": "Lieb mich wenn ich lach",
+   "start": 203.84,
+   "end": 205.18,
+   "words": [
+    {
+     "w": "Lieb",
+     "start": 203.84,
+     "end": 204.06,
+     "conf": 0.06
+    },
+    {
+     "w": "mich",
+     "start": 204.06,
+     "end": 204.28,
+     "conf": 0.04
+    },
+    {
+     "w": "wenn",
+     "start": 204.26,
+     "end": 204.58,
+     "conf": 0.02
+    },
+    {
+     "w": "ich",
+     "start": 204.58,
+     "end": 204.78,
+     "conf": 0.02
+    },
+    {
+     "w": "lach",
+     "start": 204.78,
+     "end": 205.18,
+     "conf": 0.01
+    }
+   ]
+  },
+  {
+   "i": 62,
+   "text": "Lieb mich wie du willst",
+   "start": 205.58,
+   "end": 207.18,
+   "words": [
+    {
+     "w": "Lieb",
+     "start": 205.58,
+     "end": 205.88,
+     "conf": 0.01
+    },
+    {
+     "w": "mich",
+     "start": 205.88,
+     "end": 206.08,
+     "conf": 0.01
+    },
+    {
+     "w": "wie",
+     "start": 206.08,
+     "end": 206.3,
+     "conf": 0.01
+    },
+    {
+     "w": "du",
+     "start": 206.3,
+     "end": 206.52,
+     "conf": 0.0
+    },
+    {
+     "w": "willst",
+     "start": 206.52,
+     "end": 207.18,
+     "conf": 0.0
+    }
+   ]
+  },
+  {
+   "i": 63,
+   "text": "Bei Tag und Nacht",
+   "start": 207.2,
+   "end": 208.76,
+   "words": [
+    {
+     "w": "Bei",
+     "start": 207.2,
+     "end": 207.4,
+     "conf": 0.0
+    },
+    {
+     "w": "Tag",
+     "start": 207.4,
+     "end": 207.82,
+     "conf": 0.0
+    },
+    {
+     "w": "und",
+     "start": 207.94,
+     "end": 208.3,
+     "conf": 0.0
+    },
+    {
+     "w": "Nacht",
+     "start": 208.3,
+     "end": 208.76,
+     "conf": 0.0
+    }
+   ]
+  },
+  {
+   "i": 64,
+   "text": "Lieb mich einfach so",
+   "start": 209.16,
+   "end": 210.94,
+   "words": [
+    {
+     "w": "Lieb",
+     "start": 209.16,
+     "end": 209.4,
+     "conf": 0.0
+    },
+    {
+     "w": "mich",
+     "start": 209.4,
+     "end": 209.66,
+     "conf": 0.01
+    },
+    {
+     "w": "einfach",
+     "start": 209.66,
+     "end": 210.06,
+     "conf": 0.0
+    },
+    {
+     "w": "so",
+     "start": 210.06,
+     "end": 210.94,
+     "conf": 0.0
+    }
+   ]
+  },
+  {
+   "i": 65,
+   "text": "Lieb doch was ich bin",
+   "start": 210.94,
+   "end": 212.74,
+   "words": [
+    {
+     "w": "Lieb",
+     "start": 210.94,
+     "end": 211.12,
+     "conf": 0.01
+    },
+    {
+     "w": "doch",
+     "start": 211.18,
+     "end": 211.38,
+     "conf": 0.0
+    },
+    {
+     "w": "was",
+     "start": 211.38,
+     "end": 211.66,
+     "conf": 0.01
+    },
+    {
+     "w": "ich",
+     "start": 211.66,
+     "end": 211.84,
+     "conf": 0.0
+    },
+    {
+     "w": "bin",
+     "start": 211.84,
+     "end": 212.74,
+     "conf": 0.0
+    }
+   ]
+  },
+  {
+   "i": 66,
+   "text": "Nur so macht Liebe sinn",
+   "start": 213.1,
+   "end": 216.26,
+   "words": [
+    {
+     "w": "Nur",
+     "start": 213.1,
+     "end": 213.64,
+     "conf": 0.15
+    },
+    {
+     "w": "so",
+     "start": 213.64,
+     "end": 214.1,
+     "conf": 0.24
+    },
+    {
+     "w": "macht",
+     "start": 214.26,
+     "end": 214.52,
+     "conf": 0.28
+    },
+    {
+     "w": "Liebe",
+     "start": 214.52,
+     "end": 215.4,
+     "conf": 0.42
+    },
+    {
+     "w": "sinn",
+     "start": 215.4,
+     "end": 216.26,
+     "conf": 0.27
+    }
+   ]
+  },
+  {
+   "i": 67,
+   "text": "Lieb mich wie ich bin",
+   "start": 216.26,
+   "end": 218.02,
+   "words": [
+    {
+     "w": "Lieb",
+     "start": 216.26,
+     "end": 216.52,
+     "conf": 0.28
+    },
+    {
+     "w": "mich",
+     "start": 216.52,
+     "end": 216.72,
+     "conf": 0.2
+    },
+    {
+     "w": "wie",
+     "start": 216.72,
+     "end": 217.02,
+     "conf": 0.18
+    },
+    {
+     "w": "ich",
+     "start": 217.02,
+     "end": 217.2,
+     "conf": 0.13
+    },
+    {
+     "w": "bin",
+     "start": 217.2,
+     "end": 218.02,
+     "conf": 0.31
+    }
+   ]
+  },
+  {
+   "i": 68,
+   "text": "Lieb mich wie ich wär",
+   "start": 218.02,
+   "end": 219.52,
+   "words": [
+    {
+     "w": "Lieb",
+     "start": 218.02,
+     "end": 218.24,
+     "conf": 0.13
+    },
+    {
+     "w": "mich",
+     "start": 218.28,
+     "end": 218.46,
+     "conf": 0.14
+    },
+    {
+     "w": "wie",
+     "start": 218.44,
+     "end": 218.76,
+     "conf": 0.07
+    },
+    {
+     "w": "ich",
+     "start": 218.76,
+     "end": 218.92,
+     "conf": 0.1
+    },
+    {
+     "w": "wär",
+     "start": 218.92,
+     "end": 219.52,
+     "conf": 0.17
+    }
+   ]
+  },
+  {
+   "i": 69,
+   "text": "Lieb mich wie du willst",
+   "start": 219.84,
+   "end": 221.2,
+   "words": [
+    {
+     "w": "Lieb",
+     "start": 219.84,
+     "end": 220.08,
+     "conf": 0.23
+    },
+    {
+     "w": "mich",
+     "start": 220.08,
+     "end": 220.28,
+     "conf": 0.15
+    },
+    {
+     "w": "wie",
+     "start": 220.26,
+     "end": 220.52,
+     "conf": 0.12
+    },
+    {
+     "w": "du",
+     "start": 220.52,
+     "end": 220.72,
+     "conf": 0.19
+    },
+    {
+     "w": "willst",
+     "start": 220.72,
+     "end": 221.2,
+     "conf": 0.14
+    }
+   ]
+  },
+  {
+   "i": 70,
+   "text": "Und noch viel mehr",
+   "start": 221.48,
+   "end": 223.08,
+   "words": [
+    {
+     "w": "Und",
+     "start": 221.48,
+     "end": 221.64,
+     "conf": 0.28
+    },
+    {
+     "w": "noch",
+     "start": 221.64,
+     "end": 222.04,
+     "conf": 0.53
+    },
+    {
+     "w": "viel",
+     "start": 222.04,
+     "end": 222.48,
+     "conf": 0.19
+    },
+    {
+     "w": "mehr",
+     "start": 222.48,
+     "end": 223.08,
+     "conf": 0.45
+    }
+   ]
+  },
+  {
+   "i": 71,
+   "text": "Lieb mich weil du kannst",
+   "start": 223.44,
+   "end": 225.16,
+   "words": [
+    {
+     "w": "Lieb",
+     "start": 223.44,
+     "end": 223.66,
+     "conf": 0.33
+    },
+    {
+     "w": "mich",
+     "start": 223.66,
+     "end": 223.86,
+     "conf": 0.23
+    },
+    {
+     "w": "weil",
+     "start": 223.86,
+     "end": 224.14,
+     "conf": 0.48
+    },
+    {
+     "w": "du",
+     "start": 224.14,
+     "end": 224.26,
+     "conf": 0.19
+    },
+    {
+     "w": "kannst",
+     "start": 224.28,
+     "end": 225.16,
+     "conf": 0.26
+    }
+   ]
+  },
+  {
+   "i": 72,
+   "text": "Lieb mich weil du musst",
+   "start": 225.16,
+   "end": 226.98,
+   "words": [
+    {
+     "w": "Lieb",
+     "start": 225.16,
+     "end": 225.4,
+     "conf": 0.31
+    },
+    {
+     "w": "mich",
+     "start": 225.4,
+     "end": 225.62,
+     "conf": 0.18
+    },
+    {
+     "w": "weil",
+     "start": 225.62,
+     "end": 225.88,
+     "conf": 0.44
+    },
+    {
+     "w": "du",
+     "start": 225.88,
+     "end": 226.06,
+     "conf": 0.17
+    },
+    {
+     "w": "musst",
+     "start": 226.06,
+     "end": 226.98,
+     "conf": 0.21
+    }
+   ]
+  },
+  {
+   "i": 73,
+   "text": "Von heut an bis zum Schluss",
+   "start": 227.36,
+   "end": 230.28,
+   "words": [
+    {
+     "w": "Von",
+     "start": 227.36,
+     "end": 227.86,
+     "conf": 0.41
+    },
+    {
+     "w": "heut",
+     "start": 227.86,
+     "end": 228.56,
+     "conf": 0.26
+    },
+    {
+     "w": "an",
+     "start": 228.56,
+     "end": 228.72,
+     "conf": 0.06
+    },
+    {
+     "w": "bis",
+     "start": 228.72,
+     "end": 229.14,
+     "conf": 0.02
+    },
+    {
+     "w": "zum",
+     "start": 229.14,
+     "end": 229.54,
+     "conf": 0.03
+    },
+    {
+     "w": "Schluss",
+     "start": 229.54,
+     "end": 230.28,
+     "conf": 0.05
+    }
+   ]
+  },
+  {
+   "i": 74,
+   "text": "Lieb mich wenn ich wein",
+   "start": 230.46,
+   "end": 232.28,
+   "words": [
+    {
+     "w": "Lieb",
+     "start": 230.46,
+     "end": 230.68,
+     "conf": 0.1
+    },
+    {
+     "w": "mich",
+     "start": 230.72,
+     "end": 230.94,
+     "conf": 0.14
+    },
+    {
+     "w": "wenn",
+     "start": 230.94,
+     "end": 231.22,
+     "conf": 0.18
+    },
+    {
+     "w": "ich",
+     "start": 231.22,
+     "end": 231.38,
+     "conf": 0.13
+    },
+    {
+     "w": "wein",
+     "start": 231.38,
+     "end": 232.28,
+     "conf": 0.13
+    }
+   ]
+  },
+  {
+   "i": 75,
+   "text": "Lieb mich wenn ich lach",
+   "start": 232.28,
+   "end": 233.62,
+   "words": [
+    {
+     "w": "Lieb",
+     "start": 232.28,
+     "end": 232.52,
+     "conf": 0.31
+    },
+    {
+     "w": "mich",
+     "start": 232.52,
+     "end": 232.72,
+     "conf": 0.28
+    },
+    {
+     "w": "wenn",
+     "start": 232.72,
+     "end": 233.02,
+     "conf": 0.43
+    },
+    {
+     "w": "ich",
+     "start": 233.02,
+     "end": 233.22,
+     "conf": 0.22
+    },
+    {
+     "w": "lach",
+     "start": 233.22,
+     "end": 233.62,
+     "conf": 0.42
+    }
+   ]
+  },
+  {
+   "i": 76,
+   "text": "Lieb mich wie du willst",
+   "start": 234.06,
+   "end": 235.42,
+   "words": [
+    {
+     "w": "Lieb",
+     "start": 234.06,
+     "end": 234.32,
+     "conf": 0.29
+    },
+    {
+     "w": "mich",
+     "start": 234.32,
+     "end": 234.52,
+     "conf": 0.17
+    },
+    {
+     "w": "wie",
+     "start": 234.5,
+     "end": 234.76,
+     "conf": 0.23
+    },
+    {
+     "w": "du",
+     "start": 234.76,
+     "end": 234.96,
+     "conf": 0.1
+    },
+    {
+     "w": "willst",
+     "start": 234.96,
+     "end": 235.42,
+     "conf": 0.16
+    }
+   ]
+  },
+  {
+   "i": 77,
+   "text": "Bei Tag und Nacht",
+   "start": 235.62,
+   "end": 237.18,
+   "words": [
+    {
+     "w": "Bei",
+     "start": 235.62,
+     "end": 235.8,
+     "conf": 0.12
+    },
+    {
+     "w": "Tag",
+     "start": 235.84,
+     "end": 236.26,
+     "conf": 0.43
+    },
+    {
+     "w": "und",
+     "start": 236.36,
+     "end": 236.72,
+     "conf": 0.11
+    },
+    {
+     "w": "Nacht",
+     "start": 236.72,
+     "end": 237.18,
+     "conf": 0.69
+    }
+   ]
+  },
+  {
+   "i": 78,
+   "text": "Lieb mich einfach so",
+   "start": 237.6,
+   "end": 239.38,
+   "words": [
+    {
+     "w": "Lieb",
+     "start": 237.6,
+     "end": 237.84,
+     "conf": 0.15
+    },
+    {
+     "w": "mich",
+     "start": 237.84,
+     "end": 238.1,
+     "conf": 0.33
+    },
+    {
+     "w": "einfach",
+     "start": 238.1,
+     "end": 238.5,
+     "conf": 0.21
+    },
+    {
+     "w": "so",
+     "start": 238.5,
+     "end": 239.38,
+     "conf": 0.58
+    }
+   ]
+  },
+  {
+   "i": 79,
+   "text": "Lieb doch was ich bin",
+   "start": 239.38,
+   "end": 241.14,
+   "words": [
+    {
+     "w": "Lieb",
+     "start": 239.38,
+     "end": 239.56,
+     "conf": 0.23
+    },
+    {
+     "w": "doch",
+     "start": 239.6,
+     "end": 239.82,
+     "conf": 0.12
+    },
+    {
+     "w": "was",
+     "start": 239.82,
+     "end": 240.12,
+     "conf": 0.34
+    },
+    {
+     "w": "ich",
+     "start": 240.12,
+     "end": 240.3,
+     "conf": 0.05
+    },
+    {
+     "w": "bin",
+     "start": 240.3,
+     "end": 241.14,
+     "conf": 0.1
+    }
+   ]
+  },
+  {
+   "i": 80,
+   "text": "Nur so macht Liebe sinn",
+   "start": 241.6,
+   "end": 244.6,
+   "words": [
+    {
+     "w": "Nur",
+     "start": 241.6,
+     "end": 242.08,
+     "conf": 0.15
+    },
+    {
+     "w": "so",
+     "start": 242.08,
+     "end": 242.54,
+     "conf": 0.19
+    },
+    {
+     "w": "macht",
+     "start": 242.68,
+     "end": 242.96,
+     "conf": 0.3
+    },
+    {
+     "w": "Liebe",
+     "start": 242.96,
+     "end": 243.84,
+     "conf": 0.33
+    },
+    {
+     "w": "sinn",
+     "start": 243.84,
+     "end": 244.6,
+     "conf": 0.11
+    }
+   ]
+  }
+ ],
+ "notes": "Word timings from CTC forced alignment (torchaudio MMS_FA, multilingual, romanized German) against the Demucs vocal stem, one pass per block of continuous singing in a window of +/-1.0 s around its Whisper-derived time, with <star> wildcards between lines. Word ends are extended while the vocal stays within 16 dB of the word's peak (at most 2.5 s, never past the next word). conf = mean per-frame probability of the word's characters."
+}

@@ -1,0 +1,19 @@
+.DS_Store
+node_modules/
+.vite/
+app/dist/
+
+# renders
+out/
+
+# analysis: Python env, model weights, stems and intermediates (regenerable, large)
+analysis/.venv/
+analysis/.cache/
+analysis/__pycache__/
+analysis/stems/
+analysis/work/
+analysis/work_demucs.log
+
+# the song is not ours to publish: keep your copy at audio/liebmich.mp3 (and the original upload)
+/lieb mich.mp3
+audio/*.mp3

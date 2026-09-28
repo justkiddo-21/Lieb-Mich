@@ -1,0 +1,11 @@
+[Unit]
+Description=Lieb Mich music video pod
+
+[Pod]
+PodName=liebmich
+PublishPort=21104:8080
+# keep the pod up while its container restarts
+ExitPolicy=continue
+
+[Install]
+WantedBy=default.target

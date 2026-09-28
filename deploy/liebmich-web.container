@@ -1,0 +1,13 @@
+[Unit]
+Description=Lieb Mich music video web preview
+
+[Container]
+ContainerName=liebmich-web
+Image=localhost/liebmich:latest
+Pod=liebmich.pod
+
+[Service]
+Restart=always
+
+[Install]
+WantedBy=default.target
